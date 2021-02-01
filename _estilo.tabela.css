@@ -1,0 +1,43 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: 'fonte';
+    src: url("projeto-glass-html5/_fonts/bubblegum-sans-regular.otf");
+}
+
+body {
+    background-color: white;
+}
+
+table#ficha {
+    border: 1px solid #606060;
+    border-spacing: 0px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table#ficha td {
+    border: 1px solid #606060;
+    padding: 10px;
+    text-align: center;
+}
+
+table#ficha caption {
+    font-family: 'fonte', sans-serif;
+    font-size: 20pt;
+}
+
+table#ficha td.cd {
+    background-color: #606060;
+    color: white;
+    text-align: right;
+}
+
+table#ficha td.ce {
+    background-color: #dddddd;
+}
+
+table#ficha td.titulo {
+    background-color: rgb(87, 83, 83);
+    color: white;
+}
