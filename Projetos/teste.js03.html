@@ -6,13 +6,13 @@
     <script>
         function mudaLampada(tipo) {
             if (tipo == 1) {
-                arquivo = "../projeto-glass-html5/_imagens/lampada-acesa.jpg"; 
+                arquivo = "../../projeto-glass.HTML5/imagens/lampada-acesa.jpg"; 
             }
             if (tipo == 2) {
-                arquivo = "../projeto-glass-html5/_imagens/lampada-apagada.jpg";
+                arquivo = "../../projeto-glass.HTML5/imagens/lampada-apagada.jpg";
             }
             if (tipo == 3) {
-                arquivo = "../projeto-glass-html5/_imagens/lampada-quebrada.jpg";
+                arquivo = "../projeto-glass.HTML5/imagens/lampada-quebrada.jpg";
             }
            document.getElementById ("luz").src = arquivo;
         }
@@ -20,7 +20,7 @@
 </head>
 <body>
     <h1>Acenda a lâmpada</h1>
-    <img src="../projeto-glass-html5/_imagens/lampada-apagada.jpg" id="luz" onmousemove="mudaLampada(1)" onmouseout="mudaLampada(2)" onclick="mudaLampada(3)"/>
+    <img src="../../projeto-glass.HTML5/imagens/lampada-apagada.jpg" id="luz" onmousemove="mudaLampada(1)" onmouseout="mudaLampada(2)" onclick="mudaLampada(3)"/>
 </body>
 
 </html>
