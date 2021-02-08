@@ -4,12 +4,33 @@
     <meta charset="UTF-8">
     <title>Praticando JavaScript</title>
     <script>
-        function mudar () {
-            document.getElementById ("button").src = "../../projeto-glass.HTML5/imagens/glass-logo-med.jpg";
+        function mudar(tipo) {
+            if (tipo == 1) {
+                document.getElementById ("button").src = "../../projeto-glass.HTML5/imagens/glass-logo-med.jpg";
+            }
+            if (tipo == 2) {
+                document.getElementById ("button").src = "../../projeto-glass.HTML5/imagens/glass-logo-peq.jpg";
+            }
         }
     </script>
+    <style>
+        div {
+            width: 700px;
+            
+        }
+        img {
+            display: block;
+        }
+        button {
+            padding: 10px;
+            margin-top: 10px;
+        }
+    </style>
 </head>
 <body>
-    <img src="../../projeto-glass.HTML5/imagens/glass-logo-peq.jpg" onmouseover="mudar()" id="button">    
+    <div>
+        <img src="../../projeto-glass.HTML5/imagens/glass-logo-peq.jpg" id="button"> 
+        <button onmouseover="mudar('1')" onmouseout="mudar('2')">Passe o mouse</button>
+    </div>
 </body>
 </html>
