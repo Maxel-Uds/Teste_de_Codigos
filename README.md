@@ -63,13 +63,10 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ### Autor
 ---
 
-<a href="https://blog.rocketseat.com.br/author/thiago/">
- <img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/380327?s=460&u=61b426b901b8fe02e12019b1fdb67bf0072d4f00&v=4" width="100px;" alt=""/>
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/78319246?s=400&u=968cfcc7e65e9790aceee3c36daeecb4073bde44&v=4" width="100px;" alt=""/>
  <br />
- <sub><b>Thiago Marinho</b></sub></a> <a href="https://blog.rocketseat.com.br/author/thiago//" title="Rocketseat">🚀</a>
+<p>Feito por Maxel Udson, entre em contato!</p>
 
-
-Feito com ❤️ por Maxel Udson 👋🏽 Entre em contato!
-
-[![Instagram Badge](https://img.shields.io/badge/-@tgmarinho-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tgmarinho)](https://twitter.com/tgmarinho) [![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/tgmarinho/) 
-[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:tgmarinho@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-MaxelUdson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maxel-udson-b7b65b203/)](https://www.linkedin.com/in/maxel-udson-b7b65b203/)
+[![Instagram Badge](https://img.shields.io/badge/-maxudsom-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/maxudsom/)](https://www.instagram.com/maxudsom/)
+[![Gmail Badge](https://img.shields.io/badge/-maxellopes32@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:maxellopes32@gmail.com)](maxellopes32@gmail.com)
